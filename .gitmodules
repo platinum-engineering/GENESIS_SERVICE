@@ -1,0 +1,3 @@
+[submodule "explorer-genesis-uploader"]
+	path = explorer-genesis-uploader
+	url = https://github.com/noah-blockchain/explorer-genesis-uploader.git
